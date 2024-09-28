@@ -1,4 +1,4 @@
-# Nexus_XGurus
+# Nexus_XGurus - Final LeaderBoard Score - 0.9941675 Weighted F1 Score 
 **Teammates :**
 - Tirath Bhathawala
 - Arya Gokhale
