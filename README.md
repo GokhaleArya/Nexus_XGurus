@@ -20,7 +20,7 @@ We ran **CORRELATION MATRIX** and **PLOT FEATURE IMPORTANCE** functions to get t
 Then, we dropped columns which had importance less than 2 %
 Then, ran the same Hyperparameters of CatBoost on the dropped columns and got that 99% mark.
 
-### File - StackingSubmission all versions
+### File - StackingSubmission all versions (XGurus_main.ipynb here)
 We then focused on stacking models as it helps it to generalize properly (used StackingClassifier)
 Then, we ran some of those models and found the best one in that which gave us the score of 0.9939 (on public LB)
 Then, similarly ran some of more models and feature engineering but didn't make much out of it.
